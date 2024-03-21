@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Keshav.
-- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me - keshavr@sahaj.ai
 
 <!---
